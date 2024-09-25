@@ -15,8 +15,8 @@ Frontend projects focus on the user interface (UI) and user experience (UX). The
 
 Explore our frontend project demos:
 
-- [Project 1 - Interactive sites - A](https://frontend-templates-b.vercel.app/)
-- [Project 2 - Interactive sites - B](https://frontend-templates-six.vercel.app/)
+- [Project 1 - Interactive sites - A](https://frontend-templates-six.vercel.app/)
+- [Project 2 - Interactive sites - B](https://frontend-templates-b.vercel.app/)
 
 ### Fullstack Projects (Coming Soon)
 Fullstack projects include both frontend and backend development. These projects handle the entire flow of data, from how users interact with the interface to how the system processes and responds to requests behind the scenes.
