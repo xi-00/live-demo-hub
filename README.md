@@ -41,4 +41,4 @@ Stay tuned for fullstack project demos, coming soon!
 
 ## 💬 Contact
 
-For any inquiries or further information, feel free to [reach out](mailto:your-email@example.com).
+For any inquiries or further information, feel free to [reach out](mailto:gytherandom@gmail.com).
